@@ -24,12 +24,12 @@ class Enemys {
     }
 }
 
-const orge = new Enemys("Orge");
+const dragon = new Enemys("Dragon");
 
 
-console.log(orge.attackEnemy());
-console.log(orge.walk());
-console.log(orge.dash());
-console.log(orge.getInformation());
+console.log(dragon.attackEnemy());
+console.log(dragon.walk());
+console.log(dragon.dash());
+console.log(dragon.getInformation());
 
 
